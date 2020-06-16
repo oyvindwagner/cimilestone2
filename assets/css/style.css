@@ -24,6 +24,7 @@ header {
     padding: 50px 15px 15px;
 }
 
+/* Search bar */
 header input {
     width: 100%;
     max-width: 280px;
@@ -52,6 +53,7 @@ main {
     text-align: center;
 }
 
+/* City */
 .location .city {
     color: #ffffff;
     font-size: 30px;
@@ -59,11 +61,13 @@ main {
     margin-bottom: 5px;
 }
 
+/* Date */
 .location .date {
     color: #ffffff;
     font-size: 16px;
 }
 
+/* Temperature */
 .current-weather .temp {
     color: #ffffff;
     font-size: 70px;
@@ -76,6 +80,7 @@ main {
     font-weight: 500;
 }
 
+/* Weather description */
 .current-weather .weather {
     color: #ffffff;
     font-size: 32px;
@@ -85,7 +90,8 @@ main {
     text-shadow: 0px 3px rgba(0, 0, 0, 0.3)
 }
 
-.current-weather .low-hi {
+/* Low-High Temperature */
+.current-weather .hi-low {
     color: #ffffff;
     font-size: 22px;
     font-weight: 500;
