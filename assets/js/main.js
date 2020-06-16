@@ -48,4 +48,3 @@ function displayResults (weather) {
   
     return `${day} ${date} ${month} ${year}`;
   }
-  
