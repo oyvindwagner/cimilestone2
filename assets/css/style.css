@@ -69,10 +69,25 @@ main {
     font-size: 70px;
     font-weight: 700;
     margin: 30px 0px;
-    text-shadow: 2px 8px rgba(0, 0, 0, 0.3)   
+    text-shadow: 0px 3px rgba(0, 0, 0, 0.3)  
 }
 
 .current-weather .temp span {
     font-weight: 500;
+}
 
+.current-weather .weather {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 15px;
+    text-shadow: 0px 3px rgba(0, 0, 0, 0.3)
+}
+
+.current-weather .low-hi {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 500;
+    text-shadow: 0px 3px rgba(0, 0, 0, 0.3)
 }
