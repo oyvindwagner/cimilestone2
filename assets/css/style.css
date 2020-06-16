@@ -62,7 +62,6 @@ main {
 .location .date {
     color: #ffffff;
     font-size: 16px;
-
 }
 
 .current-weather .temp {
@@ -75,5 +74,5 @@ main {
 
 .current-weather .temp span {
     font-weight: 500;
-    
+
 }
