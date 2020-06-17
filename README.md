@@ -76,6 +76,7 @@ Michał Parzuchowski at https://unsplash.com/@mparzuchowski
   
 ### Code
 Tutorial by Tyler Potts at https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg
+  
 Open Weather Map API documentation at https://openweathermap.org/guide
   
 ## Notes
