@@ -1,8 +1,9 @@
+// API
 const api = {
     key: "df6068444656f40d3677f016f0d0aee1",
     base: "https://api.openweathermap.org/data/2.5/"
 }
-
+// Trigger
 const searchbox = document.querySelector('.search-box');
 searchbox.addEventListener('keypress', setQuery);
 
@@ -11,14 +12,14 @@ function setQuery(evt) {
         getResults(searchbox.value);
     }
 }
-
+//API Call
 function getResults (query) {
     fetch(`${api.base}/weather?q=${query}&units=metric&APPID=${api.key}`)
         .then(weather => {
             return weather.json();
         }).then(displayResults);
 }
-
+// Website functions
 function displayResults (weather) {
     let city = document.querySelector('.location .city');
     city.innerText = `${weather.name}, ${weather.sys.country}`;
@@ -34,7 +35,7 @@ function displayResults (weather) {
     weather_el.innerText = weather.weather[0].main;
   
     let hilow = document.querySelector('.hi-low');
-    hilow.innerText = `${Math.round(weather.main.temp_min)}°C | ${Math.round(weather.main.temp_max)}°C`;
+    hilow.innerText = `${Math.round(weather.main.temp_min)}°C Low | ${Math.round(weather.main.temp_max)}°C High`;
   }
   
   function dateBuilder (d) {
