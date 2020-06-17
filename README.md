@@ -96,4 +96,3 @@ The website does not request the users location when the front page is opened, s
 When validating my JavaScript code through JSHint, it returns several errors related to ES6 syntax, as this is fairly new and might not be supported by older browsers.
   
 This website is built for educational purposes only.  
-    
