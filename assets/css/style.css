@@ -36,7 +36,7 @@ header input {
     border-bottom: 3px solid #3e5f78;
     color: #313131;
     font-size: 21px;
-    font-weight: 310px;
+    font-weight: 310;
     transition: 0.2s ease-out;
 }
 
@@ -57,7 +57,7 @@ main {
 .location .city {
     color: #ffffff;
     font-size: 30px;
-    font-weight: 500px;
+    font-weight: 500;
     margin-bottom: 5px;
 }
 

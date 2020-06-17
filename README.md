@@ -53,7 +53,7 @@ The website was coded in Visual Studio Code - https://code.visualstudio.com/
   
 * Tested the searchbox input by searching different locations and observing the feedback receieved.
   
-* The HTML and CSS validator at W3 (https://validator.w3.org/) was used when testing the code. 
+* The HTML and CSS validator at W3 (https://validator.w3.org/) was used when testing the code. JavaScript was validated using JSHint (https://jshint.com/)
   
 ## Deployment
 The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/cimilestone2
@@ -81,6 +81,8 @@ Open Weather Map API documentation at https://openweathermap.org/guide
   
 ## Notes
 The website does not request the users location when the front page is opened, so the user has to search the location for the area they wish to retrieve weather information from by entering the are in the searchbox. This might be a feature to implement in the future.
+  
+When validating my JavaScript code through JSHint, it returns several errors related to ES6 syntax, as this is fairly new and might not be supported by older browsers.
   
 This website is built for educational purposes only.  
   
