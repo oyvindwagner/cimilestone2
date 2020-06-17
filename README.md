@@ -65,7 +65,7 @@ The website is deployed to the internet using GitHub pages, the link to the proj
 To achieve this I went to the "Settings" tab on the repository page, under the section "GitHub Pages" it is possible to publish the contents of the repository to the web.
   
 ### Local use
-The website can be used locally on your computer by downloading the the contents of the GitHub repository. This can be achieved by pressing the "Clone or download" button located in the menu above the list of files contained in the repository.
+The website can be used locally on your computer by downloading the contents of the GitHub repository. This can be achieved by pressing the "Clone or download" button located in the menu above the list of files contained in the repository.
   
 * Press the "Clone or download" button.
   
