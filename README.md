@@ -79,7 +79,7 @@ Tutorial by Tyler Potts at https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ
 Open Weather Map API documentation at https://openweathermap.org/guide
   
 ## Notes
-
+The website does not request the users location when the front page is opened, so the user has to search the location for the area they wish to retrieve weather information from by entering the are in the searchbox. This might be a feature to implement in the future.
   
 This website is built for educational purposes only.  
   
