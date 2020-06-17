@@ -1,4 +1,4 @@
-![](assets/images/project-preview.JPG)
+![](assets/images/preview.JPG)
   
 # Weather App
 This is a weather app website made using HTML, CSS and vanilla JavaScript with the help of an API.
@@ -64,6 +64,17 @@ The website is deployed to the internet using GitHub pages, the link to the proj
   
 To achieve this I went to the "Settings" tab on the repository page, under the section "GitHub Pages" it is possible to publish the contents of the repository to the web.
   
+### Local use
+The website can be used locally on your computer by downloading the the contents of the GitHub repository. This can be achieved by pressing the "Clone or download" button located in the menu above the list of files contained in the repository.
+  
+* Press the "Clone or download" button.
+  
+* Select "Download ZIP"
+  
+* Extract the contents of the compressed file to a location of your choosing, using a program such as WinRar (https://www.rarlab.com/)
+  
+* Open the index.html file in a Browser such as Chrome (https://www.google.com/intl/en/chrome/)
+  
 ## Sources 
   
 ### Fonts
@@ -85,6 +96,4 @@ The website does not request the users location when the front page is opened, s
 When validating my JavaScript code through JSHint, it returns several errors related to ES6 syntax, as this is fairly new and might not be supported by older browsers.
   
 This website is built for educational purposes only.  
-
-  
-  
+    
