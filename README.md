@@ -1,4 +1,4 @@
-![](assets/images/preview.JPG)
+![](assets/images/project-preview.JPG)
   
 # Weather App
 This is a weather app website made using HTML, CSS and vanilla JavaScript with the help of an API.
