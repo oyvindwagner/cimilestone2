@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;    
+    box-sizing: border-box;
 }
 
 body {
@@ -17,7 +17,9 @@ body {
     min-height: 100vh;
 }
 
+
 /* Search bar */
+
 header {
     display: flex;
     justify-content: center;
@@ -41,7 +43,7 @@ header input {
 }
 
 header input:focus {
-background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 main {
@@ -53,7 +55,9 @@ main {
     text-align: center;
 }
 
+
 /* City */
+
 .location .city {
     color: #ffffff;
     font-size: 30px;
@@ -61,26 +65,32 @@ main {
     margin-bottom: 5px;
 }
 
+
 /* Date */
+
 .location .date {
     color: #ffffff;
     font-size: 16px;
 }
 
+
 /* Temperature */
+
 .current-weather .temp {
     color: #ffffff;
     font-size: 70px;
     font-weight: 700;
     margin: 20px 0px;
-    text-shadow: 0px 3px rgba(0, 0, 0, 0.3)  
+    text-shadow: 0px 3px rgba(0, 0, 0, 0.3)
 }
 
 .current-weather .temp span {
     font-weight: 500;
 }
 
+
 /* Weather description */
+
 .current-weather .weather {
     color: #ffffff;
     font-size: 32px;
@@ -90,7 +100,9 @@ main {
     text-shadow: 0px 3px rgba(0, 0, 0, 0.3)
 }
 
+
 /* High-Low Temperature */
+
 .current-weather .hi-low {
     color: #ffffff;
     font-size: 22px;
