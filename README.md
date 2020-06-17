@@ -1,10 +1,10 @@
-![](assets/images/project-preview.jpg)
+![](assets/images/project-preview.JPG)
   
 # Weather App
 This is a weather app website made using HTML, CSS and vanilla JavaScript with the help of an API.
   
 ## External user's goals:
-A website with basic information on weather such as current temperature, high-low temperature and simple weather conditions (cloduy, sunny etc.)
+A website with basic information on weather such as current temperature, high-low temperature and simple weather conditions (cloudy, sunny etc.)
 
 ## Site owner's goal:
 To provide a simple and minimalist website, containing the basic and necessary information on todays weather.
