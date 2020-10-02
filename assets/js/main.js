@@ -56,4 +56,4 @@ function dateBuilder(d) {
 const source = document.getElementById("source");
 const textContentOutput = document.getElementById("textContentOutput");
 
-textContentOutput.value = source.textContent;
+textContentOutput.textContent = "There was an error!"
