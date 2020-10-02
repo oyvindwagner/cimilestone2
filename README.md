@@ -14,6 +14,10 @@ As displayed in the wireframe below, the intent was to create a simple layout wi
   
 ![](assets/images/project-wireframe.jpg)  
   
+## User stories:  
+As a user I want to search for today's weather by using the name of the place that I live. I want to get an indication about the absolute low and high temperatures and be given a simple feedback on what the weather will be like (Cloudy, rainy etc.)
+
+  
 ## Website structure:
 The website is presented in a one page layout, optimalized for mobile but also works very well on tablet, laptop and desktop sizes. The page contains 6 features, they are:
   
@@ -54,6 +58,8 @@ The website was coded in Visual Studio Code - https://code.visualstudio.com/
 * Tested the searchbox input by searching different locations and observing the feedback receieved.
   
 * The HTML and CSS validator at W3 (https://validator.w3.org/) was used when testing the code. JavaScript was validated using JSHint (https://jshint.com/)
+  
+* 
   
 ## Deployment
 The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/cimilestone2
