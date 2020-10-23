@@ -62,11 +62,11 @@ The website was coded in Visual Studio Code - https://code.visualstudio.com/
 * 
   
 ## Deployment
-The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/cimilestone2
+The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/weatherapp/
   
 To achieve this I created an account on GitHub, created a new repository where the code and files for the project are hosted.
 
-The website is deployed to the internet using GitHub pages, the link to the project is https://oyvindwagner.github.io/cimilestone2/
+The website is deployed to the internet using GitHub pages, the link to the project is https://oyvindwagner.github.io/weatherapp/
   
 To achieve this I went to the "Settings" tab on the repository page, under the section "GitHub Pages" it is possible to publish the contents of the repository to the web.
   
